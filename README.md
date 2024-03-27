@@ -1,4 +1,4 @@
-# Form Submission in Robot Framework]
+# Form Submission in Robot Framework
 This is just one of the many posibilities of automating form submission using Robot Framework.
 
 ## Pre-requisites
